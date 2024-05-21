@@ -1,0 +1,14 @@
+speechrecognition
+wikipedia
+openai
+google-generativeai
+pyaudio
+pyttsx3
+setuptools
+wolframalpha
+requests
+tensorflow
+keras
+mltu
+newsapi-python
+pyowm
